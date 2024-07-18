@@ -1,5 +1,5 @@
 # Overview
-Siirt pistachios and Kirmizi pistachios. The model uses both PyTorch and TensorFlow frameworks for training and evaluation. It aims to assist in the automatic recognition of different types of pistachios from images.
+The model uses both PyTorch and TensorFlow frameworks for training and evaluation. It aims to assist in the automatic recognition of different types of pistachios from images.
 
 Some of the Predicitons :
 ![image](https://github.com/user-attachments/assets/3ce6c44d-54c2-4498-b662-2f03f941f260)
